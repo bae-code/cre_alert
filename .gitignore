@@ -1,0 +1,22 @@
+# Ignore Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Ignore Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+
+# Ignore DRF
+*.log
+
+# Ignore virtual environment
+venv/
+env/
+
+db.sqlite3
